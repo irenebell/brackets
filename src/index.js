@@ -12,6 +12,4 @@ do {
   
 return newStr.length === 0;
 
-};
-
 }
